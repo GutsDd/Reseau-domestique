@@ -1,2 +1,18 @@
 # Reseau-domestique
-![a-3d-render-of-a-minimalistic-logo-with-the-text-g-gTTuc2noRo-BU3Nqk3tyUw-jBBNlkY6QAOF9D2ZAxrK0Q](https://github.com/user-attachments/assets/1581101c-eec7-4106-8cdc-f7c91165a7aa)
+
+## Desciption
+Présentation de on serveur domestique plus précisement NAS
+
+# Outils
+Rasberry pi 4B, Open Media Vault
+
+## Fonctionnalités
+Sauvegarde de mes fichier, vidéo, photo, back up, document sensible
+
+## Captures d'écran / Diagrammes
+
+## Installation / Configuration
+Instructions pour installer ou configurer le projet
+
+## Résultats / Conclusion
+Résumé des résultats obtenus et des apprentissages
