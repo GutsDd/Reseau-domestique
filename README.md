@@ -2,18 +2,21 @@
 
 ## Desciption
 Présentation de on serveur domestique plus précisement NAS
-![image](https://github.com/user-attachments/assets/122355c7-92f5-4119-9682-6e6a59185757)
 
-# Outils
+## Outils
 Rasberry pi 4B, Open Media Vault
 
 ## Fonctionnalités
 Sauvegarde de mes fichier, vidéo, photo, back up, document sensible
 
-## Captures d'écran / Diagrammes
+### Diagramme de Réseau
+![Capture d'écran 2024-09-19 193703](https://github.com/user-attachments/assets/3e5ccb10-7777-471f-aef1-36d6f6ddcbf9)
 
 ## Installation / Configuration
-Instructions pour installer ou configurer le projet
+
+
+### Diagramme de Composants
+
 
 ## Résultats / Conclusion
-Résumé des résultats obtenus et des apprentissages
+
