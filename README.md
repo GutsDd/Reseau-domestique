@@ -1,4 +1,4 @@
-# Reseau-domestique
+# Réseau-domestique
 
 ## Desciption
 Présentation de on serveur domestique plus précisement NAS
