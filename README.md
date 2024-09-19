@@ -2,6 +2,7 @@
 
 ## Desciption
 Présentation de on serveur domestique plus précisement NAS
+![image](https://github.com/user-attachments/assets/122355c7-92f5-4119-9682-6e6a59185757)
 
 # Outils
 Rasberry pi 4B, Open Media Vault
